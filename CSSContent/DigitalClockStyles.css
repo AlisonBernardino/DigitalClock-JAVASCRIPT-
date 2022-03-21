@@ -1,0 +1,9 @@
+#clockInput {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(72, 103, 241);
+    background-color: rgb(37, 37, 37);
+    width: 100px;
+    box-shadow: 4px 4px 9px rgb(0, 47, 255);
+}
